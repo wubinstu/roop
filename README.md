@@ -1,3 +1,10 @@
+## This project has been discontinued
+
+Yes, you can still use this software. It just won't recieve any updates now.
+
+> The reason behind shutting the project down is that a developer with write access to the code published a [problematic video](https://github.com/s0md3v/roop/commit/cf7ba1caf932e8c9f39d972100f74022e7372c27) to the documentation of the project. This happened while I was taking a break from the project in July-Aug 2023. It went unnoticed for 2 weeks until someone reached out to me to talk about this project. It was a complete breach of trust for me and I decided that I do not have the interest or time to oversee the development of a software with such ethical issues.
+> I thank all the amazing people who contributed to this project and made what it is in it's final form.
+
 # Roop
 
 > Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
@@ -8,9 +15,9 @@
 
 Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://discord.com/invite/Y9p4ZQ2sB9) community that will guide you to install roop.
 
-[Basic](https://roop-ai.gitbook.io/roop/installation/basic) - It is more likely to work on your computer, but will be quite slow
+[Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
-[Acceleration](https://roop-ai.gitbook.io/roop/installation/acceleration) - Unleash the full potential of your CPU and GPU
+[Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
 
 
 ## Usage
@@ -70,4 +77,4 @@ Our software uses a lot of third party libraries as well pre-trained models. The
 
 ## Documentation
 
-Read the [documentation](https://roop-ai.gitbook.io/roop) for a deep dive.
+Read the [documentation](https://github.com/s0md3v/roop/wiki) for a deep dive.
